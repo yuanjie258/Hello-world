@@ -1,2 +1,5 @@
 # Hello-world
-My first description
+*My first repository description*
+```
+printf("hello world\n");
+```
